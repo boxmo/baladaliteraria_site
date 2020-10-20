@@ -1,0 +1,652 @@
+{
+  "completed": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cxV76G5WZVJ_9_ag0Ex25TdnNWY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2LYGQJga6Xw"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-08T09:51:47Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "18h - Encerramento da Balada Literária 2020 - Show com Cátia de França",
+        "description": "Mesa #17 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2LYGQJga6Xw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2LYGQJga6Xw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2LYGQJga6Xw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-08T09:51:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PQigkkzNujFIfJh77sp3C5Mv0nE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s4wKUXgN-Lo"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-08T08:47:00Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "16h -  Encontro entre GENI GUIMARÃES e ELIANE POTIGUARA.",
+        "description": "Mesa #16 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s4wKUXgN-Lo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s4wKUXgN-Lo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s4wKUXgN-Lo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-08T08:47:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zRGCwaj5Rc30z7I2LjxqRIhRlzE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gZNlqJRhiVE"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-08T06:00:09Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "14h - Show exclusivo com a cantora e compositora Maria Pérola",
+        "description": "Mesa #15 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gZNlqJRhiVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gZNlqJRhiVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gZNlqJRhiVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-08T06:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iBMPQeemkpdc4Sr_qv6jQUbhyjs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vFW4qivusL8"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-08T04:26:38Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "11h - Especial Papo (P)reto: “Retratos da mídia brasileira”.",
+        "description": "Mesa #14 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vFW4qivusL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vFW4qivusL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vFW4qivusL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-08T04:26:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zGHXF_8M92LScvnMKNoKwhTS1pw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iauzuz6pUkg"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-07T06:08:29Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "14h -  Especial Papo (P)reto: “A formação de leitores e leitoras”.",
+        "description": "Mesa #12 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iauzuz6pUkg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iauzuz6pUkg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iauzuz6pUkg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-07T06:08:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yX8CgVIFAMCZAiIPrfzhKR0olfI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BPZLdtMU2Gc"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-07T03:16:00Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "11h - Especial Papo (P)reto: &quot;Lima Barreto &amp; O Social-Porta-Voz dos Excluídos&quot;.",
+        "description": "Mesa #11 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BPZLdtMU2Gc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BPZLdtMU2Gc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BPZLdtMU2Gc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-07T03:16:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5CNPoFgJib4eOdZBkfvx22NA2VU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sqeK9RZUh2Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-07T00:23:08Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "16h - Mesa de glosa com as poetas glosadoras do Sertão do Pajeú + Show com Batuque Elétrico",
+        "description": "Mesa #13 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sqeK9RZUh2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sqeK9RZUh2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sqeK9RZUh2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-07T00:23:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VXEOoM7UKUg08Ai04Iwh5yywgqE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pqpueQ5kIuM"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-06T12:49:38Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "18h- Exibição do documentário sobre o cantor e compositor JURACI TAVARES. Direção de Ricardo Soares",
+        "description": "Mesa #10 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pqpueQ5kIuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pqpueQ5kIuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pqpueQ5kIuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-06T12:49:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X5rCy1xyPSU8_Jffk1Dp29OjlCo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IaiLy0HCE1U"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-06T08:18:28Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "16h – Especial Papo (P)reto: “Arte Negra, Isolamento e Perspectivas Futuras”.",
+        "description": "Mesa #9 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IaiLy0HCE1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IaiLy0HCE1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IaiLy0HCE1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-06T08:18:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M8Fv0ARjFZUoiTsvERwpGWX00u4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fCFfnf8ZI5Y"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-06T06:33:32Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "14h – O encontro entre LUZ RIBEIRO, NATASHA FÉLIX e JOCÉLIA FONSECA mediado por ODAILTA ALVES",
+        "description": "Mesa #8 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fCFfnf8ZI5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fCFfnf8ZI5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fCFfnf8ZI5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-06T06:33:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ahBBXsMC_1B4aVipak969q61OJ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZAu70aeJ_6g"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-06T02:26:45Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "10h - Bate-papo com CIDINHA DA SILVA e LÍVIA NATÁLIA, mediação da professora Assunção Sousa",
+        "description": "Mesa #7 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZAu70aeJ_6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZAu70aeJ_6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZAu70aeJ_6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-06T02:26:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ny30soZN5RbpWLA3nXzsFdbJhHk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ybDT1O7IwGQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-05T13:00:54Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "21:00h - Show AS CLARIANAS",
+        "description": "Mesa #6.3 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ybDT1O7IwGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ybDT1O7IwGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ybDT1O7IwGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-05T13:00:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1-pS1K-1eS0pV-YSjsvFk2_xrWQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_lRGeghr9J0"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-05T10:57:28Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "18h - Documentário exclusivo &quot;Uma conversa com Douglas Machado&quot;.",
+        "description": "Documentário exclusivo \"Uma conversa com Douglas Machado\", dirigido por Marcio Bigly e Douglas Machado. Mesa #6 - Mais uma atração da Balada Literária ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_lRGeghr9J0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_lRGeghr9J0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_lRGeghr9J0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-05T10:57:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KkCw7YyTQ1xyKSFwRDLPLOwOVM8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "myA242xCcwY"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-05T08:11:37Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "16h - Especial Papo (P)reto: Sidney Santiago Kuanza conversa com o cineasta Joel Zito Araújo",
+        "description": "Mesa #5 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/myA242xCcwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/myA242xCcwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/myA242xCcwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-05T08:11:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7fg3HlDBs2A7iXVAVAqq-iSuOw4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JTvYPrstSms"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-05T06:44:16Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "14h - LANDE ONAWALE conversa com ESMERALDA RIBEIRO e MIRIAM ALVES",
+        "description": "Mesa #4 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JTvYPrstSms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JTvYPrstSms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JTvYPrstSms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-05T06:44:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IEPwU6M7rnQ8jSphfb0jKimlUC0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0oAnCTyK_mE"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-05T02:10:09Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "10h - Uma aula sobre a poesia negra feita na Bahia. Com Silvio Roberto Oliveira",
+        "description": "Mesa #3 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0oAnCTyK_mE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0oAnCTyK_mE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0oAnCTyK_mE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-05T02:10:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jZMrUak-rNSBO_K_P9Z6-GylT7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AG2_Ti9bABE"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-04T23:16:26Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "20:00h - Camila de Moraes fala sobre fazer cinema no Brasil",
+        "description": "Mesa #6.2 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AG2_Ti9bABE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AG2_Ti9bABE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AG2_Ti9bABE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-04T23:16:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G0omjzZ3EyI4sa8MvqrLjOuSL9c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tHEYZqvhACI"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-04T19:14:49Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "10h - Uma aula sobre a literatura piauiense com Nathan Sousa",
+        "description": "Mesa #1 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tHEYZqvhACI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tHEYZqvhACI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tHEYZqvhACI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-04T19:14:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VXDvF3r_r0VkDeawQkmqXSSaUzY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gy2jOpwu_EU"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-04T00:49:19Z",
+        "channelId": "UCqs16hQO3_l0J-kVsv1b6ow",
+        "title": "19h - Abertura da BALADA LITERÁRIA 2020",
+        "description": "Mesa #2 - Mais uma atração da Balada Literária 2020. O evento, que acontece anualmente desde 2006, realiza uma edição totalmente on-line e faz este ano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gy2jOpwu_EU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gy2jOpwu_EU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gy2jOpwu_EU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balada Literária",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-04T00:49:19Z"
+      }
+    }
+  ],
+  "live": [],
+  "upcoming": []
+}
